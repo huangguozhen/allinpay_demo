@@ -1,0 +1,12 @@
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\bin\uniondemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\bin\uniondemo.pdb
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\bin\Newtonsoft.Json.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\obj\Debug\uniondemo.csprojResolveAssemblyReference.cache
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\obj\Debug\uniondemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\wxpaydemo\obj\Debug\uniondemo.pdb
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\bin\uniondemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\bin\uniondemo.pdb
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\bin\Newtonsoft.Json.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\obj\Debug\uniondemo.csprojResolveAssemblyReference.cache
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\obj\Debug\uniondemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\统一下单\unionorder_demo\net\uniondemo\uniondemo\obj\Debug\uniondemo.pdb

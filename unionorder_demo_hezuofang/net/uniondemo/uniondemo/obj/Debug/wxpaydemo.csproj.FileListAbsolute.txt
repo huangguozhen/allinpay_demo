@@ -1,0 +1,15 @@
+D:\vsworkplace\wxpaydemo\wxpaydemo\bin\wxpaydemo.dll
+D:\vsworkplace\wxpaydemo\wxpaydemo\bin\wxpaydemo.pdb
+D:\vsworkplace\wxpaydemo\wxpaydemo\bin\Newtonsoft.Json.dll
+D:\vsworkplace\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.dll
+D:\vsworkplace\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.pdb
+D:\allinpay\doc\vspplus\微信支付接入\tlwxpay_doc\tlwxpay_doc\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\wxpaydemo.dll
+D:\allinpay\doc\vspplus\微信支付接入\tlwxpay_doc\tlwxpay_doc\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\wxpaydemo.pdb
+D:\allinpay\doc\vspplus\微信支付接入\tlwxpay_doc\tlwxpay_doc\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\Newtonsoft.Json.dll
+D:\allinpay\doc\vspplus\微信支付接入\tlwxpay_doc\tlwxpay_doc\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.dll
+D:\allinpay\doc\vspplus\微信支付接入\tlwxpay_doc\tlwxpay_doc\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.pdb
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\微信支付\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\wxpaydemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\微信支付\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\wxpaydemo.pdb
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\微信支付\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\bin\Newtonsoft.Json.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\微信支付\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.dll
+D:\allinpay\git\vsp-plus\vspp-docs\API接入\对外HTTP接口\微信支付\wxpayapi_demo\wxapidemo_net\wxpaydemo\wxpaydemo\obj\Debug\wxpaydemo.pdb
